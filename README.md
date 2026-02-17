@@ -1,26 +1,19 @@
 # Technical Profile: Rafi
 
-I am an Information Systems student with a strong interest in backend systems, cloud infrastructure, and DevOps automation. Currently focusing on building robust tools and exploring the depths of the Linux ecosystem.
+I am an Information Systems student with a interest in backend systems, cloud infrastructure, and DevOps automation. Currently focusing on learning some kind of tools and exploring a little bit Linux OS
 
 ---
 
 ## 💻 Technical Interests & Skills
 
-### Languages & Frameworks
-* **Python**: Core language for automation and system monitoring.
-* **Java**: Experience with NetBeans and fundamental OOP.
-* **SQL**: Data management and relational database structures.
+### Languages
+* **Python**: seems like i'm currently study this language
+* **Java**: not really.. but also in my study journey
+* **SQL**: still trying to understand this one
 
-### Focus Areas
+### Focus Areas... Sort of wondering who I’ll become later on
 * **Backend Development**: Building logic and efficient data processing.
-* **Cloud & Infrastructure**: Exploring scalable environments and server management.
 * **DevOps**: Automating workflows and maintaining system reliability.
-
----
-
-## 🛠️ Current Project
-### [Server Inventory & Monitoring Tool](https://github.com/RafBVyc/server-inventory-monitor)
-A specialized Python-based application developed to manage server inventories and monitor real-time connectivity (ICMP) with automated logging and structured data management.
 
 ---
 

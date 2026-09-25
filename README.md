@@ -1,20 +1,13 @@
-# Rafi Thorif
+# Hi, I'm Rafi 
 
-Information Systems student with an interest in backend development, cloud infrastructure, and DevOps automation. Currently building small backend projects, learning Linux fundamentals, and practicing clean code with GitHub workflows.
+Information Systems student at UIN Raden Fatah Palembang.
 
----
+Currently rebuilding and strengthening my foundation in programming and IT through coursework, hands-on practice, and personal projects.
 
-## Interests & Skills
+I'm exploring software development while also learning about Linux, networking, databases, and other areas of IT to find the direction I want to pursue long-term.
 
-### Languages
-- **Python** – building small CLI tools and backend logic
-- **SQL** – practicing database queries and schema design
+I'm still figuring out where I want to specialize in IT.
 
-### Focus Areas
-- **Backend Development** – designing APIs, validation logic, and data processing
-- **DevOps Fundamentals** – basic Linux usage, scripting, and workflow automation
+For now, I'm focusing on building a strong foundation rather than trying to learn everything at once.
 
-### Current Focus
-- Building small backend utilities in Python
-- Practicing Git & GitHub workflow (commit discipline, clean history)
-- Learning Linux environment for development
+> **"Trying to do better, one step at a time."**

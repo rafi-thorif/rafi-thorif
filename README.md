@@ -1,6 +1,4 @@
-# Hi, I'm Rafi 
-
-Information Systems student at UIN Raden Fatah Palembang.
+Information Systems student...
 
 Currently rebuilding and strengthening my foundation in programming and IT through coursework, hands-on practice, and personal projects.
 
